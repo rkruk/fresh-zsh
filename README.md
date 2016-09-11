@@ -1,5 +1,7 @@
-# This is my personal fork of [fresh](http://freshshell.com/) repository.
-I made some changes in the `.freshrc` file - which were the main and only reason of my decision to fork `fresh` repo and not use it directly as is.
+
+# <h2 align="center"> This is my personal fork of [fresh](http://freshshell.com/) repository.</h2>
+
+I've changed  a few bits here and there. The biggest differences are in the `.freshrc` file - which were the main and only reason of my decision to fork `fresh` repo and not to use it directly as is.
 
 `fresh` is a fantastic tool to source shell configuration (aliases, functions, etc) from
 others into your own configuration files. Think of it as Bundler for your dot files.
