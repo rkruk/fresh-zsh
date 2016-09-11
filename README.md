@@ -30,6 +30,7 @@ This will:
 
 You will need to manually add `source ~/.fresh/build/shell.sh` to your `.zshrc` config.
 
+
 ## Configuration
 
 Copy `freshrc` file into `~/.freshrc`:
@@ -190,13 +191,15 @@ fresh shell/zsh/zsh-syntax-highlighting.zsh --file=~/.zshrc
 Running `fresh` will then build your shell configuration and create any relevant symbolic links.
 
 
-### Advanced Usage
+##Advanced Usage:
 
 There are many other ways you can customize fresh.
 For more information go to the `fresh repository`:
 [advanced usage](https://github.com/freshshell/fresh/wiki#advanced-usage)
 
-## Command line options
+
+## Command line options:
+
 
 ### Install
 
@@ -239,6 +242,6 @@ For example running `fresh open` is equivalent to running `fresh-open`.
 
 ## Licence
 
-I own no right to this code. All rights belongs to [jasoncodes](https://github.com/jasoncodes) and [twe4ked](https://github.com/twe4ked) at [fresh](https://github.com/freshshell).
+I own no rights to this code. All rights belongs to [jasoncodes](https://github.com/jasoncodes) and [twe4ked](https://github.com/twe4ked) at [fresh](https://github.com/freshshell).
 
 The original code is licenced under MIT licence.
