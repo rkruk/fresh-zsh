@@ -233,7 +233,7 @@ For example running `fresh open` is equivalent to running `fresh-open`.
 
 ## Copyrights
 
-`fresh` is copyrighted by [jasoncodes](https://github.com/jasoncodes) and [twe4ked](https://github.com/twe4ked).
+`fresh` copyrights belongs to [jasoncodes](https://github.com/jasoncodes) and [twe4ked](https://github.com/twe4ked).
 
 ## Licence
 
