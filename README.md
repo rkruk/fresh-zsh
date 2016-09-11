@@ -235,14 +235,15 @@ fresh will detect bin files that start with `fresh-` in your `$PATH`.
 
 For example running `fresh open` is equivalent to running `fresh-open`.
 
-
-
+<br>
+<br>
 
 ## Copyrights
 
 `fresh` copyrights belongs to [jasoncodes](https://github.com/jasoncodes) and [twe4ked](https://github.com/twe4ked).
 
-
+<br>
+<br>
 
 ## Licence
 
