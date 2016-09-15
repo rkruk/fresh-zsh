@@ -163,7 +163,8 @@ fresh shell/zsh/keybindings.zsh
 fresh shell/zsh/selecta.zsh
 
 # this loads the shell files and needs to be at the bottom of the zshrc for
-# compdef be availiable
+# compdef to be available 
+# (more about compdef: http://zsh.sourceforge.net/Doc/Release/Completion-System.html):
 fresh freshshell/fresh contrib/source-build.sh
 fresh rupa/z z.sh
 fresh robbyrussell/oh-my-zsh lib/edit-command-line.zsh --ref=a38774c
