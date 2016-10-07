@@ -30,7 +30,7 @@ This will:
 
 You will need to manually add:
 ``` sh 
-source ~/.fresh/build/shell.sh` 
+source ~/.fresh/build/shell.sh 
 ``` 
 to your `.zshrc` config.
 
