@@ -28,7 +28,11 @@ This will:
 * Clone the latest version of fresh into `~/.fresh/source/freshshell/fresh`.
 * Create a `~/.freshrc` file.
 
-You will need to manually add `source ~/.fresh/build/shell.sh` to your `.zshrc` config.
+You will need to manually add:
+``` sh 
+source ~/.fresh/build/shell.sh` 
+``` 
+to your `.zshrc` config.
 
 
 ## Configuration
